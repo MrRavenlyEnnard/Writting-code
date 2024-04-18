@@ -1,0 +1,38 @@
+ /*paragraph*/
+ p{
+    color: black;
+    background-color: snow;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+/* header*/
+.header{
+    background-color: black;
+    color: white;
+   
+}
+/*body*/
+body{
+   background-image: url(https://i.redd.it/c3uhsgo1vx541.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+/*heading1*/
+h1{
+    text-align: center;
+    width: auto 0;
+    border-width: 5px;
+    border-color: aqua;
+}
+/*heading2*/
+h2{
+    text-align: center;
+    width: auto 0;
+    color: aqua;
+}
+img{
+    text-align: center;
+    padding-right: 25px;
+    padding-left: 15px;
+    
+}
